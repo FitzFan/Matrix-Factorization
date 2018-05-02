@@ -49,7 +49,7 @@ R = numpy.array(R)
 
 N = len(R)
 M = len(R[0])
-K = 5
+K = 10
 
 P = numpy.random.rand(N,K)
 Q = numpy.random.rand(M,K)
